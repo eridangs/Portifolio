@@ -1,0 +1,30 @@
+@import url(curriculo.css);
+@import url(habilidades.css);
+@import url(menu.css);
+@import url(projetos.css);
+@import url(sobre-mim.css);
+@supports (font-variation-settings: normal) {
+    :root { font-family: InterVariable, sans-serif; }
+}
+
+:root{
+    --color-primary-1: #e0eb00;
+    --color-primary-2: #484738;
+    --color-primary-3: #adac9a;
+    --color-primary-4: #00e5e7;
+    --color-primary-5: #00acb0;
+    --color-neutra-0:#fff;
+    --color-neutra-1:#1d1d1d;
+    font-family: Inter, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+a{
+    text-decoration: none;
+}
