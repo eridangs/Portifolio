@@ -8,11 +8,11 @@
 }
 
 :root{
-    --color-primary-1: #e0eb00;
-    --color-primary-2: #484738;
-    --color-primary-3: #adac9a;
-    --color-primary-4: #00e5e7;
-    --color-primary-5: #00acb0;
+    --color-primary-1: #845ec2;
+    --color-primary-2: #2c73d2;
+    --color-primary-3: #0081cf;
+    --color-primary-4: #0089ba;
+    --color-primary-5: #008e9b;
     --color-neutra-0:#fff;
     --color-neutra-1:#1d1d1d;
     font-family: Inter, sans-serif;
@@ -24,7 +24,7 @@
     padding: 0;
     box-sizing: border-box; 
 }
-
 a{
     text-decoration: none;
 }
+

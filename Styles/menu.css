@@ -1,0 +1,23 @@
+.menu{
+    width: 100%;
+    padding: 28px 8%;
+    top: 0; 
+}
+.nav-bar{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-lista{
+    display: flex;
+    width: 100%;
+    list-style: none;
+    justify-content: space-between;
+    gap: 20px;
+}
+.nav-sessao{
+    color: var(--color-primary-5);
+    font-family: InterVariable, sans-serif;
+    font-weight: 700;
+}
